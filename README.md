@@ -12,7 +12,7 @@ To see the impact on Earth-Mercury Distance:
 3. Start Date = 2026-11-01 00:00 UTC(when MPO orbit is stable around Mercury)
 4. Simulation’s unit = ('days', 'km', 'kg')
 5. Observer at Solar System Barycenter
-6. Initial state vectors obtained from bc_plan_v430_20241120_001.tm meta-kernel from SPICE. 
+6. Initial state vectors obtained from bc_plan_v430_20241120_001.tm meta-kernel from SPICE {http://spiftp.esac.esa.int/data/SPICE/BEPICOLOMBO/misc/BEPICOLOMBO.html}. 
 7. REBOUNDx to add GR, Sun’s J2 effect
 8. Shapiro delay defined
 9. Later on, additional accelerations added to the simulation using REBOUNDx (PPN, Graviton)
